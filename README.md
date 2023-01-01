@@ -1,2 +1,2 @@
-# SecretRecipe
-Try Hack Me registry forensics box write-up
+# Try Hack Me Walkthroughs
+Write-Up for Try Hack Me Rooms.
